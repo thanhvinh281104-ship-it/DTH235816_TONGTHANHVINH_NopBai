@@ -1,5 +1,5 @@
 """
-/ dùng để chia lấy phần thực
+/ dùng để chia lấy phần thực  
 // dùng để chia lấy phần nguyên
 % dùng để chia lấy dư
 ** dùng để bình phương
