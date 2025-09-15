@@ -1,0 +1,1 @@
+# Python hổ trợ các kiểu dữ liệu cơ bản như int (số nguyên), float (số thực), boolean (kiểu logic), string (chuỗi ký tự)
